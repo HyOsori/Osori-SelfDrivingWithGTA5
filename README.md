@@ -14,8 +14,8 @@
 [<img src="https://avatars1.githubusercontent.com/u/5905296?v=4&s=460" width="150px" />](https://github.com/Sentdex)
 
 ### 자료
-https://github.com/Sentdex/pygta5
-https://pythonprogramming.net/
+https://github.com/Sentdex/pygta5 <br>
+https://pythonprogramming.net/ <br>
 
 ## 목표
 1. 파이썬(**Python3**)을 이용해 차량(캐릭터)를 조작
