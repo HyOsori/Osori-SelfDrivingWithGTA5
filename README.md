@@ -1,6 +1,6 @@
 # Osori-SelfDrivingWithGTA5
-**GTA5**를 이용해 자율주행 자동차를 학습 시키는 프로젝트
-[ ppt](https://github.com/HyOsori/Osori-SelfDrivingWithGTA5/blob/master/ppt/Self-Driving_Car_In_GTA5.ppt)
+**GTA5**를 이용해 자율주행 자동차를 학습 시키는 프로젝트 <br>
+[소개 ppt](https://github.com/HyOsori/Osori-SelfDrivingWithGTA5/blob/master/ppt/Self-Driving_Car_In_GTA5.ppt)
 
 ## 팀원(ABC 순)
 
