@@ -13,6 +13,8 @@
 ### [Sentdex](https://github.com/Sentdex) (Harrison)<br>
 [<img src="https://avatars1.githubusercontent.com/u/5905296?v=4&s=460" width="150px" />](https://github.com/Sentdex)
 
+### 자료
+https://github.com/Sentdex/pygta5
 https://pythonprogramming.net/
 
 ## 목표
