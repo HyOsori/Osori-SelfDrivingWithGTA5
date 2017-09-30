@@ -11,7 +11,7 @@ GTA5를 이용해 자율주행 자동차를 학습 시키는 프로젝트
 ## 팀장
 
 ### [Sentdex](https://github.com/Sentdex) (Harrison)<br>
-[![Mr. Sentdex](https://avatars1.githubusercontent.com/u/5905296?v=4&s=460)](https://github.com/Sentdex)
+[<img src="https://avatars1.githubusercontent.com/u/5905296?v=4&s=460" width="150px" />](https://github.com/Sentdex)
 
 https://pythonprogramming.net/
 
