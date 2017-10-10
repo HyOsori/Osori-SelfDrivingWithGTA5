@@ -5,9 +5,9 @@
 ## 팀원(ABC 순)
 
 1. [jhyang12345](https://github.com/jhyang12345)
-1. [JiHyeonSEO](https://github.com/JiHyeonSEO)
-1. [JunsuLime](https://github.com/JunsuLime)
-1. [Sikurity](https://github.com/Sikurity)
+2. [JiHyeonSEO](https://github.com/JiHyeonSEO)
+3. [JunsuLime](https://github.com/JunsuLime)
+4. [Sikurity](https://github.com/Sikurity)
 
 ## 팀장
 
@@ -24,10 +24,10 @@ https://pythonprogramming.net/ <br>
 2. **OpenCV**를 이용해 **차선**, **사람**, **차량**, **신호등** 및 **표지판**을 인식
 
 3. **목적지를 설정**해주면, **인간의 조작 없이 자율주행**으로만 도착하는 것을 목표<br>
-  a. 차선, 사람, 차량, 신호등 및 표지판 정보를 이용해 **유한상태기계(Finite-state machine, FSM)로** 자율주행 구현<br>
-  b. 차선, 사람, 차량, 신호등 및 표지판 정보를 이용해 **DQN(Deep Q Network – 딥러닝을 이용한 강화학습)으로** 학습하기<br>
+    a. 차선, 사람, 차량, 신호등 및 표지판 정보를 이용해 **유한상태기계(Finite-state machine, FSM)로** 자율주행 구현<br>
+      b. 차선, 사람, 차량, 신호등 및 표지판 정보를 이용해 **DQN(Deep Q Network – 딥러닝을 이용한 강화학습)으로** 학습하기<br>
      (**충돌 횟수**, **역주행 여부**, **네비게이션 경로에서 떨어진 거리** 등을 이용)
-  
+
 ## 강좌
 
 (필수) https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/ <br>
@@ -46,11 +46,28 @@ https://pythonprogramming.net/ <br>
 
 ### (발표 전)
 4. 목적 달성여부를 확인하고, 오픈 소스로 배포…<br>
-	a. 경로이탈 없이<br>
-	b. 교통법규 준수<br>
-	c. 인명피해 없이<br>
-	d. 차량파손 없이<br>
-	e. 목적지에 도착<br>
+  a. 경로이탈 없이<br>
+  b. 교통법규 준수<br>
+  c. 인명피해 없이<br>
+  d. 차량파손 없이<br>
+  e. 목적지에 도착<br>
 
 ※ 오소리 회원분들 및 모든 개발자 분들의 관심(**Issue**, **Comment**, **Pull Request** 등)을 환영합니다.<br>
 ※ 시험 기간(**중간고사**/**기말고사**)에는 2주 가량 쉽니다<br>
+
+
+
+자율주행 프로젝트를 위한 GTA5 운전중 단축키 모음: Cheat 입력창
+
+1. `Q`,  `, `, `.`: Radio On/Off
+2. `E`: Klaxon(경적) 울리기
+3. `H`: Head Light On/Off
+4. `R`, `V`: Camera 시점 변경
+5. `P`: 상호 작용 메뉴
+6. `C`: 뒤돌아보기
+7. `M`: 빠른 GPS 설정
+8. `Space Bar`: 사이드 브레이크
+9. `Caps Lock`: 집중하기
+10. `F12`: 스크린샷 저장
+
+![GTA5_Cheat_Sheet](https://github.com/Sikurity/Osori-SelfDrivingWithGTA5/blob/master/resources/imgs/GTA5_Cheat_Sheet.png?raw=true)
