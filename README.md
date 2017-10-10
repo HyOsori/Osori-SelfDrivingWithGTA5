@@ -69,3 +69,5 @@ https://pythonprogramming.net/ <br>
 8. `Space Bar`: 사이드 브레이크
 9. `Caps Lock`: 집중하기
 10. `F12`: 스크린샷 저장
+
+![GTA5_Cheat_Sheet](https://github.com/Sikurity/Osori-SelfDrivingWithGTA5/blob/master/resources/imgs/GTA5_Cheat_Sheet.png?raw=true)
