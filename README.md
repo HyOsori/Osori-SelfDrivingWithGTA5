@@ -31,6 +31,7 @@ https://pythonprogramming.net/ <br>
 ## 강좌
 
 (필수) https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/ <br>
+(옵션) https://psyber.io <br>
 (옵션) https://hunkim.github.io/ml/ <br>
 
 ## 계획
