@@ -102,3 +102,4 @@ ENV/
 *.iml
 *.xml
 *.tgitconfig
+/MNIST_data/*.gz
