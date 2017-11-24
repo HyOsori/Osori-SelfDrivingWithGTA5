@@ -103,3 +103,5 @@ ENV/
 *.xml
 *.tgitconfig
 /MNIST_data/*.gz
+/logs
+/summaries
