@@ -16,6 +16,9 @@ class DirectionKey(Enum):
     S = 0x1F
     D = 0x20
 
+    def __int__(self):
+        return self.value
+
 # C struct redefinitions
 PUL = ctypes.POINTER(ctypes.c_ulong)
 
@@ -57,6 +60,10 @@ class Input(ctypes.Structure):
 
 
 def PressKey(hexKeyCode):
+
+    if type(hexKeyCode) is not int:
+        hexKeyCode = int(hexKeyCode)
+
     extra = ctypes.c_ulong(0)
     ii_ = Input_I()
     ii_.ki = KeyBdInput( 0, hexKeyCode, 0x0008, 0, ctypes.pointer(extra) )
@@ -65,6 +72,10 @@ def PressKey(hexKeyCode):
 
 
 def ReleaseKey(hexKeyCode):
+
+    if type(hexKeyCode) is not int:
+        hexKeyCode = int(hexKeyCode)
+
     extra = ctypes.c_ulong(0)
     ii_ = Input_I()
     ii_.ki = KeyBdInput( 0, hexKeyCode, 0x0008 | 0x0002, 0, ctypes.pointer(extra) )

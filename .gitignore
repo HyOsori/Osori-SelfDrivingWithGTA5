@@ -105,3 +105,10 @@ ENV/
 /MNIST_data/*.gz
 /logs
 /summaries
+log
+logs
+/checkpoint
+/*.meta
+/*.data-00000-of-00001
+/*.index
+/*.npy
